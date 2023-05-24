@@ -4,5 +4,6 @@ public class Hello {
 		System.out.println("What is Git?");
 		System.out.println("That's DVCS!");
 		System.out.println("check commit history");
+		System.out.println("Git is a free and open source")
 	}
 }
